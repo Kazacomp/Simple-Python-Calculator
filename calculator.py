@@ -42,7 +42,7 @@ while True:
         elif choice == "3":
             print("Result:", times(value1, value2))
 
-        elif choicr == "4":
+        elif choice == "4":
             print("Result:", dividedBy(value1, value2))
 
     else:
