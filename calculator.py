@@ -7,7 +7,7 @@ def minus(a, b):
 def times(a, b):
     return a * b
 
-def dividedBy(a, b):
+def divided_by(a, b):
     if b == 0:
         return "Cannot be divided by 0!"
     return a / b
@@ -43,7 +43,7 @@ while True:
             print("Result:", times(value1, value2))
 
         elif choice == "4":
-            print("Result:", dividedBy(value1, value2))
+            print("Result:", divided_by(value1, value2))
 
     else:
         print("Option Invalid!")
