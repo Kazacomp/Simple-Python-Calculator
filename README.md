@@ -1,1 +1,1 @@
-# Simple-Phyton-Calculator
+# Simple-Python-Calculator
